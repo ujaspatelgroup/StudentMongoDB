@@ -1,0 +1,6 @@
+@StudentCRUDMongoDB_HostAddress = http://localhost:5018
+
+GET {{StudentCRUDMongoDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
